@@ -3,6 +3,7 @@ var Name;
 var Email;
 var Age;
 var address;
+var city;
  var Phone_Number;
  var Gender;
  var married;
